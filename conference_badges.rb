@@ -13,6 +13,3 @@ def assing_rooms(rooms)
   rooms = [1,2,3,4,5,6,7]
   speakers.each_with_index {|speakers, rooms|}
 end
-
-#badge_maker("Ariel")
-#puts "Hello, my name is #{name}."
