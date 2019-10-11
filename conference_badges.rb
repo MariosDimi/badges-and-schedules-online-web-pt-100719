@@ -9,7 +9,7 @@ def batch_badge_creator(speakers)
 end
 
 def assing_rooms(rooms)
-  
+  speakers.each_with_
 
 #badge_maker("Ariel")
 #puts "Hello, my name is #{name}."
