@@ -8,6 +8,8 @@ def batch_badge_creator(speakers)
     puts "Hello, my name is #{speaker}!"
 end
 
+def assing_rooms(rooms)
+  
 
 #badge_maker("Ariel")
 #puts "Hello, my name is #{name}."
